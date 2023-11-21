@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.employee-detail {
+  display: inline-block;
+  margin: 0 auto;
+  min-width: 270px;
+}
+
+.employee{
+  display: block;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
